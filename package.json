@@ -1,0 +1,26 @@
+{
+  "name": "blueberry-charts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.18.1",
+    "radium": "^0.19.1",
+    "react": "^15.5.4",
+    "react-addons-shallow-compare": "^15.5.2",
+    "react-dates": "^12.1.0",
+    "react-dom": "^15.5.4",
+    "recharts": "^1.0.0-alpha.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy" : "npm run build&&gh-pages -d build"
+  },
+  "homepage" : "http://gabinho5.github.io/"
+
+}

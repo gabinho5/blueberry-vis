@@ -1,0 +1,49 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-logo {
+  display: flex;
+  justify-content: center;
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+h2{
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@fontface {
+  font-family: 'Quicksand';
+  src: url('https://fonts.googleapis.com/css?family=Quicksand:400,700')
+}
+.btn {
+  position: 'absolute';
+  border-radius: '500px';
+  font-family: "Quicksand";
+  text-transform: capitalize;
+}
+.hover:hover {
+  backgroundColor: '#000021';
+  color: '#fff';
+  cursor: 'pointer';
+}

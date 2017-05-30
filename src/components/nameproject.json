@@ -1,0 +1,991 @@
+{
+ "Apr-14-2017": {
+  "name": [
+   {
+    "McLane": "40",
+    "name": "Andrew"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "LiveNation": "60",
+    "name": "Armen"
+   },
+   {
+    "Marriott": "40",
+    "name": "Daisi"
+   },
+   {
+    "VA": "40",
+    "name": "Danielle"
+   },
+   {
+    "Tom - Blueberry Team Chatbot": "30",
+    "Delivery Excellence": "5",
+    "Learning Development (React)": "5",
+    "name": "Gabriel"
+   },
+   {
+    "McLane": "40",
+    "name": "Jacki"
+   },
+   {
+    "Delivery Excellence": "50",
+    "name": "Jacqueline"
+   },
+   {
+    "Hive": "50",
+    "name": "Johnny"
+   },
+   {
+    "user testing methodology": "44",
+    "name": "Kalsey"
+   },
+   {
+    "McLane": "30",
+    "name": "Leslie"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Maria"
+   },
+   {
+    "VA": "8",
+    "McLane": "16",
+    "Richline": "4",
+    "CBP": "4",
+    "Hive": "4",
+    "Delivery Excellence": "4",
+    "name": "Mike"
+   },
+   {
+    "Hive": "50",
+    "name": "Natalie"
+   },
+   {
+    "McLane": "40",
+    "name": "Neil"
+   },
+   {
+    "McLane": "50",
+    "name": "Sara"
+   },
+   {
+    "McLane": "5",
+    "With Catherine and Sara doing knowledge transfer for Sara to take over my role": "10",
+    "name": "Sarah"
+   },
+   {
+    "Video work at Tiffany's co": "24",
+    "Healthcare": "8",
+    "name": "Sasha"
+   }
+  ],
+  "project": [
+   {
+    "Mike": "4",
+    "project": "CBP"
+   },
+   {
+    "Gabriel": "5",
+    "Jacqueline": "50",
+    "Mike": "4",
+    "project": "Delivery Excellence"
+   },
+   {
+    "Maria": "40",
+    "Sasha": "8",
+    "project": "Healthcare"
+   },
+   {
+    "Johnny": "50",
+    "Mike": "4",
+    "Natalie": "50",
+    "project": "Hive"
+   },
+   {
+    "Gabriel": "5",
+    "project": "Learning Development (React)"
+   },
+   {
+    "Anthony": "40",
+    "Armen": "60",
+    "project": "LiveNation"
+   },
+   {
+    "Daisi": "40",
+    "project": "Marriott"
+   },
+   {
+    "Andrew": "40",
+    "Jacki": "40",
+    "Leslie": "30",
+    "Mike": "16",
+    "Neil": "40",
+    "Sara": "50",
+    "Sarah": "5",
+    "project": "McLane"
+   },
+   {
+    "Mike": "4",
+    "project": "Richline"
+   },
+   {
+    "Gabriel": "30",
+    "project": "Tom - Blueberry Team Chatbot"
+   },
+   {
+    "Kalsey": "44",
+    "project": "user testing methodology"
+   },
+   {
+    "Danielle": "40",
+    "Mike": "8",
+    "project": "VA"
+   },
+   {
+    "Sasha": "24",
+    "project": "Video work at Tiffany's co"
+   },
+   {
+    "Sarah": "10",
+    "project": "With Catherine and Sara doing knowledge transfer for Sara to take over my role"
+   }
+  ]
+ },
+ "Apr-21-2017": {
+  "name": [
+   {
+    "Marriott": "16",
+    "name": "Amanda"
+   },
+   {
+    "McLane": "16",
+    "Richline": "16",
+    "name": "Andrew"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "LiveNation": "60",
+    "name": "Armen"
+   },
+   {
+    "VA": "50",
+    "name": "Danielle"
+   },
+   {
+    "Blueberry Team Chatbot": "5",
+    "Delivery Excellence": "10",
+    "Training - Development": "10",
+    "Helping Pat McDonnell in Boston with the SCP Meeting": "18",
+    "name": "Gabriel"
+   },
+   {
+    "Healthcare": "36",
+    "name": "Hadden"
+   },
+   {
+    "Delivery Excellence": "45",
+    "name": "Jacqueline"
+   },
+   {
+    "Hive": "5",
+    "Nothing": "0",
+    "name": "Kalsey"
+   },
+   {
+    "McLane": "6",
+    "Hive": "8",
+    "name": "Leslie"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Maria"
+   },
+   {
+    "VA": "4",
+    "McLane": "16",
+    "Richline": "10",
+    "Hive": "4",
+    "CBP": "2",
+    "Delivery Excellence": "2",
+    "name": "Mike"
+   },
+   {
+    "Hive": "49",
+    "name": "Natalie"
+   },
+   {
+    "McLane": "20",
+    "Richline": "30",
+    "name": "Sara"
+   },
+   {
+    "VA": "10",
+    "Healthcare": "8",
+    "LiveNation": "4",
+    "Delivery Excellence": "4",
+    "Top account partner meeting": "8",
+    "Internal meetings": "8",
+    "name": "Tarver"
+   }
+  ],
+  "project": [
+   {
+    "Gabriel": "5",
+    "project": "Blueberry Team Chatbot"
+   },
+   {
+    "Mike": "2",
+    "project": "CBP"
+   },
+   {
+    "Gabriel": "10",
+    "Jacqueline": "45",
+    "Mike": "2",
+    "Tarver": "4",
+    "project": "Delivery Excellence"
+   },
+   {
+    "Hadden": "36",
+    "Maria": "40",
+    "Tarver": "8",
+    "project": "Healthcare"
+   },
+   {
+    "Gabriel": "18",
+    "project": "Helping Pat McDonnell in Boston with the SCP Meeting"
+   },
+   {
+    "Kalsey": "5",
+    "Leslie": "8",
+    "Mike": "4",
+    "Natalie": "49",
+    "project": "Hive"
+   },
+   {
+    "Tarver": "8",
+    "project": "Internal meetings"
+   },
+   {
+    "Anthony": "40",
+    "Armen": "60",
+    "Tarver": "4",
+    "project": "LiveNation"
+   },
+   {
+    "Amanda": "16",
+    "project": "Marriott"
+   },
+   {
+    "Andrew": "16",
+    "Leslie": "6",
+    "Mike": "16",
+    "Sara": "20",
+    "project": "McLane"
+   },
+   {
+    "Kalsey": "0",
+    "project": "Nothing"
+   },
+   {
+    "Andrew": "16",
+    "Mike": "10",
+    "Sara": "30",
+    "project": "Richline"
+   },
+   {
+    "Tarver": "8",
+    "project": "Top account partner meeting"
+   },
+   {
+    "Gabriel": "10",
+    "project": "Training - Development"
+   },
+   {
+    "Danielle": "50",
+    "Mike": "4",
+    "Tarver": "10",
+    "project": "VA"
+   }
+  ]
+ },
+ "Apr-28-2017": {
+  "name": [
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "VA": "40",
+    "name": "Danielle"
+   },
+   {
+    "Internal": "40",
+    "name": "Gabriel"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Hadden"
+   },
+   {
+    "McLane": "15",
+    "Learn React Native": "40",
+    "design logos/ swag": "2",
+    "name": "Jacqueline"
+   },
+   {
+    "Hive": "6",
+    "Healthcare": "4",
+    "McLane": "0",
+    "name": "Leslie"
+   },
+   {
+    "McLane": "8",
+    "VA": "4",
+    "CBP": "4",
+    "Richline": "8",
+    "Hive": "4",
+    "name": "Mike"
+   },
+   {
+    "McLane": "45",
+    "name": "Sara"
+   },
+   {
+    "Healthcare": "30",
+    "name": "Sasha"
+   },
+   {
+    "Healthcare": "8",
+    "Nickelodeon": "16",
+    "VA": "4",
+    "Century Link": "8",
+    "Internal meetings": "8",
+    "name": "Tarver"
+   }
+  ],
+  "project": [
+   {
+    "Mike": "4",
+    "project": "CBP"
+   },
+   {
+    "Tarver": "8",
+    "project": "Century Link"
+   },
+   {
+    "Jacqueline": "2",
+    "project": "design logos/ swag"
+   },
+   {
+    "Hadden": "40",
+    "Leslie": "4",
+    "Sasha": "30",
+    "Tarver": "8",
+    "project": "Healthcare"
+   },
+   {
+    "Leslie": "6",
+    "Mike": "4",
+    "project": "Hive"
+   },
+   {
+    "Gabriel": "40",
+    "project": "Internal"
+   },
+   {
+    "Tarver": "8",
+    "project": "Internal meetings"
+   },
+   {
+    "Jacqueline": "40",
+    "project": "Learn React Native"
+   },
+   {
+    "Anthony": "40",
+    "project": "LiveNation"
+   },
+   {
+    "Jacqueline": "15",
+    "Leslie": "0",
+    "Mike": "8",
+    "Sara": "45",
+    "project": "McLane"
+   },
+   {
+    "Tarver": "16",
+    "project": "Nickelodeon"
+   },
+   {
+    "Mike": "8",
+    "project": "Richline"
+   },
+   {
+    "Mike": "4",
+    "Tarver": "4",
+    "Danielle": "40",
+    "project": "VA"
+   }
+  ]
+ },
+ "May-5-2017": {
+  "name": [
+   {
+    "Marriott": "30",
+    "name": "Amanda"
+   },
+   {
+    "McLane": "2",
+    "Richline": "2",
+    "Universal Parks Watch App": "8",
+    "name": "Andrew"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "LiveNation": "60",
+    "name": "Armen"
+   },
+   {
+    "Marriott": "30",
+    "name": "Daisi"
+   },
+   {
+    "Century Link Transformation": "10",
+    "VA": "30",
+    "name": "Danielle"
+   },
+   {
+    "Internal - Blueberry Team Status Bot": "32",
+    "McLane": "8",
+    "name": "Gabriel"
+   },
+   {
+    "Gabe's Viz": "8",
+    "Learning React & React Native. Pushing out more code and learning how to make the components.̴�-": "40",
+    "name": "Jacki"
+   },
+   {
+    "Delivery Excellence": "40",
+    "name": "Jacqueline"
+   },
+   {
+    "Hive": "45",
+    "name": "Johnny"
+   },
+   {
+    "Century Link Transformation": "24",
+    "name": "Kalsey"
+   },
+   {
+    "Century Link Transformation": "2",
+    "Hive": "4",
+    "XPS for North Face UI Review̴�-": "6",
+    "name": "Leslie"
+   },
+   {
+    "Healthcare": "30",
+    "name": "Maria"
+   },
+   {
+    "VA": "40",
+    "name": "Max"
+   },
+   {
+    "CbD hackathon": "8",
+    "CBP": "8",
+    "McLane": "4",
+    "Richline": "4",
+    "VA": "8",
+    "name": "Mike"
+   },
+   {
+    "Hive": "50",
+    "name": "Natalie"
+   },
+   {
+    "internal tools": "40",
+    "name": "Neil"
+   },
+   {
+    "McLane": "35",
+    "name": "Sara"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Sasha"
+   },
+   {
+    "ABID Bank Tranformation": "4",
+    "CBP": "8",
+    "Century Link Transformation": "8",
+    "Nickelodeon Chat Bot": "8",
+    "SLT meeting": "8",
+    "Universal Parks Watch App": "4",
+    "VA": "4",
+    "name": "Tarver"
+   }
+  ],
+  "project": [
+   {
+    "Tarver": "4",
+    "project": "ABID Bank Tranformation"
+   },
+   {
+    "Mike": "8",
+    "project": "CbD hackathon"
+   },
+   {
+    "Mike": "8",
+    "Tarver": "8",
+    "project": "CBP"
+   },
+   {
+    "Danielle": "10",
+    "Kalsey": "24",
+    "Leslie": "2",
+    "Tarver": "8",
+    "project": "Century Link Transformation"
+   },
+   {
+    "Jacqueline": "40",
+    "project": "Delivery Excellence"
+   },
+   {
+    "Jacki": "8",
+    "project": "Gabe's Viz"
+   },
+   {
+    "Maria": "30",
+    "Sasha": "40",
+    "project": "Healthcare"
+   },
+   {
+    "Johnny": "45",
+    "Leslie": "4",
+    "Natalie": "50",
+    "project": "Hive"
+   },
+   {
+    "Gabriel": "32",
+    "project": "Internal - Blueberry Team Status Bot"
+   },
+   {
+    "Neil": "40",
+    "project": "internal tools"
+   },
+   {
+    "Jacki": "40",
+    "project": "Learning React & React Native. Pushing out more code and learning how to make the components.̴�-"
+   },
+   {
+    "Anthony": "40",
+    "Armen": "60",
+    "project": "LiveNation"
+   },
+   {
+    "Amanda": "30",
+    "Daisi": "30",
+    "project": "Marriott"
+   },
+   {
+    "Andrew": "2",
+    "Gabriel": "8",
+    "Mike": "4",
+    "Sara": "35",
+    "project": "McLane"
+   },
+   {
+    "Tarver": "8",
+    "project": "Nickelodeon Chat Bot"
+   },
+   {
+    "Andrew": "2",
+    "Mike": "4",
+    "project": "Richline"
+   },
+   {
+    "Tarver": "8",
+    "project": "SLT meeting"
+   },
+   {
+    "Andrew": "8",
+    "Tarver": "4",
+    "project": "Universal Parks Watch App"
+   },
+   {
+    "Danielle": "30",
+    "Max": "40",
+    "Mike": "8",
+    "Tarver": "4",
+    "project": "VA"
+   },
+   {
+    "Leslie": "6",
+    "project": "XPS for North Face UI Review̴�-"
+   }
+  ]
+ },
+ "May-12-2017": {
+  "name": [
+   {
+    "Universal Parks Watch App": "6",
+    "Albertson - Safeway": "16",
+    "name": "Andrew"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Armen"
+   },
+   {
+    "Marriott": "7",
+    "Nickelodeon Chat Bot": "8",
+    "name": "Daisi"
+   },
+   {
+    "VA": "30",
+    "Helping Max with a video for BringIT teamÂ ": "5",
+    "name": "Danielle"
+   },
+   {
+    "Internal": "40",
+    "name": "Gabriel"
+   },
+   {
+    "None": "45",
+    "Learn React Native": "45",
+    "name": "Jacki"
+   },
+   {
+    "Delivery Excellence": "40",
+    "name": "Jacqueline"
+   },
+   {
+    "Hive": "58",
+    "name": "Johnny"
+   },
+   {
+    "Century Link Transformation": "30",
+    "name": "Kalsey"
+   },
+   {
+    "Century Link Transformation": "30",
+    "name": "Leslie"
+   },
+   {
+    "Healthcare": "30",
+    "name": "Maria"
+   },
+   {
+    "VA": "30",
+    "Century Link Transformation": "4",
+    "Healthcare": "2",
+    "IDEA video for Ismail Amla": "8",
+    "Video Consulting": "5",
+    "name": "Max"
+   },
+   {
+    "VA": "4",
+    "McLane": "8",
+    "Richline": "4",
+    "CBP": "4",
+    "Albertsons": "8",
+    "Hive": "2",
+    "name": "Mike"
+   },
+   {
+    "Hive": "40",
+    "name": "Natalie"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Neil"
+   },
+   {
+    "Catherine": "40",
+    "McLane": "10",
+    "name": "Sara"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Sasha"
+   },
+   {
+    "Nickelodeon Chat Bot": "6",
+    "ABID Bank Tranformation": "8",
+    "Universal Parks Watch App": "2",
+    "Century Link Transformation": "8",
+    "VA": "4",
+    "name": "Tarver"
+   }
+  ],
+  "project": [
+   {
+    "Tarver": "8",
+    "project": "ABID Bank Tranformation"
+   },
+   {
+    "Andrew": "16",
+    "project": "Albertson - Safeway"
+   },
+   {
+    "Mike": "8",
+    "project": "Albertsons"
+   },
+   {
+    "Sara": "40",
+    "project": "Catherine"
+   },
+   {
+    "Mike": "4",
+    "project": "CBP"
+   },
+   {
+    "Kalsey": "30",
+    "Leslie": "30",
+    "Max": "4",
+    "Tarver": "8",
+    "project": "Century Link Transformation"
+   },
+   {
+    "Jacqueline": "40",
+    "project": "Delivery Excellence"
+   },
+   {
+    "Maria": "30",
+    "Max": "2",
+    "Neil": "40",
+    "Sasha": "40",
+    "project": "Healthcare"
+   },
+   {
+    "Danielle": "5",
+    "project": "Helping Max with a video for BringIT teamÂ "
+   },
+   {
+    "Johnny": "58",
+    "Mike": "2",
+    "Natalie": "40",
+    "project": "Hive"
+   },
+   {
+    "Max": "8",
+    "project": "IDEA video for Ismail Amla"
+   },
+   {
+    "Gabriel": "40",
+    "project": "Internal"
+   },
+   {
+    "Jacki": "45",
+    "project": "Learn React Native"
+   },
+   {
+    "Anthony": "40",
+    "Armen": "40",
+    "project": "LiveNation"
+   },
+   {
+    "Daisi": "7",
+    "project": "Marriott"
+   },
+   {
+    "Mike": "8",
+    "Sara": "10",
+    "project": "McLane"
+   },
+   {
+    "Daisi": "8",
+    "Tarver": "6",
+    "project": "Nickelodeon Chat Bot"
+   },
+   {
+    "Jacki": "45",
+    "project": "None"
+   },
+   {
+    "Mike": "4",
+    "project": "Richline"
+   },
+   {
+    "Andrew": "6",
+    "Tarver": "2",
+    "project": "Universal Parks Watch App"
+   },
+   {
+    "Danielle": "30",
+    "Max": "30",
+    "Mike": "4",
+    "Tarver": "4",
+    "project": "VA"
+   },
+   {
+    "Max": "5",
+    "project": "Video Consulting"
+   }
+  ]
+ },
+ "May-19-2017": {
+  "name": [
+   {
+    "Nickelodeon Chat Bot": "50",
+    "name": "Amanda"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Anthony"
+   },
+   {
+    "LiveNation": "40",
+    "name": "Armen"
+   },
+   {
+    "Nickelodeon Chat Bot": "50",
+    "name": "Daisi"
+   },
+   {
+    "VA": "5",
+    "Century Link Transformation": "8",
+    "name": "Danielle"
+   },
+   {
+    "Internal": "45",
+    "name": "Gabriel"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Hadden"
+   },
+   {
+    "Build on React Native skills": "42",
+    "name": "Jacki"
+   },
+   {
+    "Delivery Excellence": "50",
+    "name": "Jacqueline"
+   },
+   {
+    "Nickelodeon Chat Bot": "20",
+    "Hive": "24",
+    "name": "Johnny"
+   },
+   {
+    "Century Link Transformation": "21",
+    "name": "Kalsey"
+   },
+   {
+    "Century Link Transformation": "21",
+    "name": "Leslie"
+   },
+   {
+    "Healthcare": "15",
+    "CbD hackathon (not exactly a project )": "25",
+    "Blueberry pitch day": "20",
+    "name": "Maria"
+   },
+   {
+    "Albertsons": "24",
+    "McLane": "2",
+    "Richline": "2",
+    "Rio Tinto Blockchain": "2",
+    "VA": "4",
+    "Nickelodeon Chat Bot": "4",
+    "name": "Mike"
+   },
+   {
+    "Hive": "30",
+    "Delivery Excellence": "2",
+    "name": "Natalie"
+   },
+   {
+    "Healthcare": "40",
+    "name": "Sasha"
+   }
+  ],
+  "project": [
+   {
+    "Mike": "24",
+    "project": "Albertsons"
+   },
+   {
+    "Maria": "20",
+    "project": "Blueberry pitch day"
+   },
+   {
+    "Jacki": "42",
+    "project": "Build on React Native skills"
+   },
+   {
+    "Maria": "25",
+    "project": "CbD hackathon (not exactly a project )"
+   },
+   {
+    "Danielle": "8",
+    "Kalsey": "21",
+    "Leslie": "21",
+    "project": "Century Link Transformation"
+   },
+   {
+    "Jacqueline": "50",
+    "Natalie": "2",
+    "project": "Delivery Excellence"
+   },
+   {
+    "Hadden": "40",
+    "Maria": "15",
+    "Sasha": "40",
+    "project": "Healthcare"
+   },
+   {
+    "Johnny": "24",
+    "Natalie": "30",
+    "project": "Hive"
+   },
+   {
+    "Gabriel": "45",
+    "project": "Internal"
+   },
+   {
+    "Anthony": "40",
+    "Armen": "40",
+    "project": "LiveNation"
+   },
+   {
+    "Mike": "2",
+    "project": "McLane"
+   },
+   {
+    "Amanda": "50",
+    "Daisi": "50",
+    "Johnny": "20",
+    "Mike": "4",
+    "project": "Nickelodeon Chat Bot"
+   },
+   {
+    "Mike": "2",
+    "project": "Richline"
+   },
+   {
+    "Mike": "2",
+    "project": "Rio Tinto Blockchain"
+   },
+   {
+    "Danielle": "5",
+    "Mike": "4",
+    "project": "VA"
+   }
+  ]
+ }
+}
