@@ -1,5 +1,20 @@
 {
  "Apr-14-2017": {
+  "ptype" : {
+    "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+    "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+    "sold": ["LiveNation", "MetLife", "Universal Parks"],
+    "internal" : ["Hive", "Delivery Excellence"]
+  },
+  "sector" : {
+    "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+    "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+    "internal": ["Hive", "Delivery Excellence"],
+    "public" : ["CBP", "VA"],
+    "FSS" : ["MetLife"],
+    "healtcare": ["Healthcare"],
+    "IBM Middle East" : ["ABID Bank Transformation"]
+  },
   "name": [
    {
     "McLane": "40",
@@ -156,6 +171,21 @@
   ]
  },
  "Apr-21-2017": {
+   "ptype" : {
+     "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+     "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+     "sold": ["LiveNation", "MetLife", "Universal Parks"],
+     "internal" : ["Hive", "Delivery Excellence"]
+   },
+   "sector" : {
+     "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+     "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+     "internal": ["Hive", "Delivery Excellence"],
+     "public" : ["CBP", "VA"],
+     "FSS" : ["MetLife"],
+     "healtcare": ["Healthcare"],
+     "IBM Middle East" : ["ABID Bank Transformation"]
+   },
   "name": [
    {
     "Marriott": "16",
@@ -316,6 +346,21 @@
   ]
  },
  "Apr-28-2017": {
+   "ptype" : {
+     "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+     "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+     "sold": ["LiveNation", "MetLife", "Universal Parks"],
+     "internal" : ["Hive", "Delivery Excellence"]
+   },
+   "sector" : {
+     "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+     "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+     "internal": ["Hive", "Delivery Excellence"],
+     "public" : ["CBP", "VA"],
+     "FSS" : ["MetLife"],
+     "healtcare": ["Healthcare"],
+     "IBM Middle East" : ["ABID Bank Transformation"]
+   },
   "name": [
    {
     "LiveNation": "40",
@@ -435,6 +480,21 @@
   ]
  },
  "May-5-2017": {
+   "ptype" : {
+     "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+     "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+     "sold": ["LiveNation", "MetLife", "Universal Parks"],
+     "internal" : ["Hive", "Delivery Excellence"]
+   },
+   "sector" : {
+     "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+     "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+     "internal": ["Hive", "Delivery Excellence"],
+     "public" : ["CBP", "VA"],
+     "FSS" : ["MetLife"],
+     "healtcare": ["Healthcare"],
+     "IBM Middle East" : ["ABID Bank Transformation"]
+   },
   "name": [
    {
     "Marriott": "30",
@@ -443,7 +503,7 @@
    {
     "McLane": "2",
     "Richline": "2",
-    "Universal Parks Watch App": "8",
+    "Universal Parks": "8",
     "name": "Andrew"
    },
    {
@@ -527,9 +587,9 @@
     "ABID Bank Tranformation": "4",
     "CBP": "8",
     "Century Link Transformation": "8",
-    "Nickelodeon Chat Bot": "8",
+    "Nickelodeon": "8",
     "SLT meeting": "8",
-    "Universal Parks Watch App": "4",
+    "Universal Parks": "4",
     "VA": "4",
     "name": "Tarver"
    }
@@ -605,7 +665,7 @@
    },
    {
     "Tarver": "8",
-    "project": "Nickelodeon Chat Bot"
+    "project": "Nickelodeon"
    },
    {
     "Andrew": "2",
@@ -619,7 +679,7 @@
    {
     "Andrew": "8",
     "Tarver": "4",
-    "project": "Universal Parks Watch App"
+    "project": "Universal Parks"
    },
    {
     "Danielle": "30",
@@ -635,10 +695,25 @@
   ]
  },
  "May-12-2017": {
+   "ptype" : {
+     "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+     "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+     "sold": ["LiveNation", "MetLife", "Universal Parks"],
+     "internal" : ["Hive", "Delivery Excellence"]
+   },
+   "sector" : {
+     "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+     "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+     "internal": ["Hive", "Delivery Excellence"],
+     "public" : ["CBP", "VA"],
+     "FSS" : ["MetLife"],
+     "healtcare": ["Healthcare"],
+     "IBM Middle East" : ["ABID Bank Transformation"]
+   },
   "name": [
    {
-    "Universal Parks Watch App": "6",
-    "Albertson - Safeway": "16",
+    "Universal Parks": "6",
+    "Albertsons Safeway": "16",
     "name": "Andrew"
    },
    {
@@ -651,7 +726,7 @@
    },
    {
     "Marriott": "7",
-    "Nickelodeon Chat Bot": "8",
+    "Nickelodeon": "8",
     "name": "Daisi"
    },
    {
@@ -701,7 +776,7 @@
     "McLane": "8",
     "Richline": "4",
     "CBP": "4",
-    "Albertsons": "8",
+    "Albertsons Safeway": "8",
     "Hive": "2",
     "name": "Mike"
    },
@@ -723,9 +798,9 @@
     "name": "Sasha"
    },
    {
-    "Nickelodeon Chat Bot": "6",
+    "Nickelodeon": "6",
     "ABID Bank Tranformation": "8",
-    "Universal Parks Watch App": "2",
+    "Universal Parks": "2",
     "Century Link Transformation": "8",
     "VA": "4",
     "name": "Tarver"
@@ -738,11 +813,11 @@
    },
    {
     "Andrew": "16",
-    "project": "Albertson - Safeway"
+    "project": "Albertsons Safeway"
    },
    {
     "Mike": "8",
-    "project": "Albertsons"
+    "project": "Albertsons Safeway"
    },
    {
     "Sara": "40",
@@ -809,7 +884,7 @@
    {
     "Daisi": "8",
     "Tarver": "6",
-    "project": "Nickelodeon Chat Bot"
+    "project": "Nickelodeon"
    },
    {
     "Jacki": "45",
@@ -822,7 +897,7 @@
    {
     "Andrew": "6",
     "Tarver": "2",
-    "project": "Universal Parks Watch App"
+    "project": "Universal Parks"
    },
    {
     "Danielle": "30",
@@ -838,9 +913,24 @@
   ]
  },
  "May-19-2017": {
+   "ptype" : {
+     "pipeline": ["ABID Bank Transformation", "Rio Tinto Blockchain", "YUM! Brands"],
+     "business development": ["Albertsons Safeway", "Century Link", "Healthcare", "McLane", "Richline", "Nickelodeon", "CBP", "VA", "Marriott", "Kraft Heinz"],
+     "sold": ["LiveNation", "MetLife", "Universal Parks"],
+     "internal" : ["Hive", "Delivery Excellence"]
+   },
+   "sector" : {
+     "distribution": ["Albertsons Safeway", "McLane", "Richline", "Rio Tinto Blockchain", "YUM! Brands", "Marriott", "Kraft Heinz"],
+     "comms": ["Century Link", "LiveNation", "Nickelodeon", "Universal Parks"],
+     "internal": ["Hive", "Delivery Excellence"],
+     "public" : ["CBP", "VA"],
+     "FSS" : ["MetLife"],
+     "healtcare": ["Healthcare"],
+     "IBM Middle East" : ["ABID Bank Transformation"]
+   },
   "name": [
    {
-    "Nickelodeon Chat Bot": "50",
+    "Nickelodeon": "50",
     "name": "Amanda"
    },
    {
@@ -852,7 +942,7 @@
     "name": "Armen"
    },
    {
-    "Nickelodeon Chat Bot": "50",
+    "Nickelodeon": "50",
     "name": "Daisi"
    },
    {
@@ -877,7 +967,7 @@
     "name": "Jacqueline"
    },
    {
-    "Nickelodeon Chat Bot": "20",
+    "Nickelodeon": "20",
     "Hive": "24",
     "name": "Johnny"
    },
@@ -896,12 +986,12 @@
     "name": "Maria"
    },
    {
-    "Albertsons": "24",
+    "Albertsons Safeway": "24",
     "McLane": "2",
     "Richline": "2",
     "Rio Tinto Blockchain": "2",
     "VA": "4",
-    "Nickelodeon Chat Bot": "4",
+    "Nickelodeon": "4",
     "name": "Mike"
    },
    {
@@ -917,7 +1007,7 @@
   "project": [
    {
     "Mike": "24",
-    "project": "Albertsons"
+    "project": "Albertsons Safeway"
    },
    {
     "Maria": "20",
@@ -971,7 +1061,7 @@
     "Daisi": "50",
     "Johnny": "20",
     "Mike": "4",
-    "project": "Nickelodeon Chat Bot"
+    "project": "Nickelodeon"
    },
    {
     "Mike": "2",

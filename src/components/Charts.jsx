@@ -1,6 +1,5 @@
 import React from 'react';
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer} from 'recharts';
-import nameproject from './nameproject.json'
+import { BarChart, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer} from 'recharts';
 
 const styles = {
   size: {
@@ -17,7 +16,7 @@ class Charts extends React.Component{
   render() {
     return(
       <ResponsiveContainer height='100%' width='100%'>
-        <BarChart style = {styles.size} data={this.props.isProjectView ? nameproject[this.props.date].project : nameproject[this.props.date].name}
+        <BarChart style = {styles.size} data={this.props.isProjectView ? this.props.filteredobject.project : this.props.filteredobject.name}
           margin={{top: 60, right: 60, left: 60, bottom: 130}}>
           <XAxis interval={0} angle={-45} textAnchor='end' dataKey={this.props.isProjectView ? 'project' : 'name'} style={{fontSize: 12}}/>
           <YAxis/>
